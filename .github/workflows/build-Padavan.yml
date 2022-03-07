@@ -11,7 +11,6 @@ env:
   UPLOAD_RELEASE: true
   Build_Targets: RM2100
   CONFIG_FILE: RM2100.config
-  DIY_SH: diy.sh
 
 jobs:
   build:
