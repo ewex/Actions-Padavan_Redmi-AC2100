@@ -8,7 +8,7 @@ env:
   REPO_URL: https://github.com/hanwckf/rt-n56u
   REPO_BRANCH: master
   UPLOAD_WETRANSFER: false
-  UPLOAD_RELEASE: true
+  UPLOAD_RELEASE: false
   Build_Targets: RM2100
   CONFIG_FILE: RM2100.config
 
